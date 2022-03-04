@@ -10,9 +10,6 @@
 </div>
 
 
-![cover](.github/cover.png?style=flat)
-
-
 ## 💻 Projeto
 Aplicativo criado para estudar e explorar as melhores e mais objetivas Tecnologia de notificações, Tanto local quanto pelo servidor, com uma interface intuitiva, flúida e divertida!.
 
