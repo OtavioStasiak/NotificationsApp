@@ -2,7 +2,7 @@
   <img alt="NotificationsApp" height="80" title="Plant Manager" src=".github/logo.png" />
 </h1>
 
-<div align="center">
+<div height="100">
   <img src="https://firebasestorage.googleapis.com/v0/b/notificationsapp-58333.appspot.com/o/Screenshot_2022-03-04-14-02-05-277_com.notificationsapp.jpg?alt=media&token=4d13dff7-89b8-420e-8e22-226dc310d09d" height: "20px" width: "60px"/>
 </div>
 
