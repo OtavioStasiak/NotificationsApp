@@ -3,7 +3,7 @@
 </h1>
 
 <div>
-  <img src="https://firebasestorage.googleapis.com/v0/b/notificationsapp-58333.appspot.com/o/Screenshot_2022-03-04-14-02-05-277_com.notificationsapp.jpg?alt=media&token=4d13dff7-89b8-420e-8e22-226dc310d09d" height: "40%" width: "40%"/>
+  <img src="https://firebasestorage.googleapis.com/v0/b/notificationsapp-58333.appspot.com/o/Screenshot_2022-03-04-14-02-05-277_com.notificationsapp.jpg?alt=media&token=4d13dff7-89b8-420e-8e22-226dc310d09d" height=40% width=40%/>
 </div>
 
 
