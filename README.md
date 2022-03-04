@@ -44,6 +44,11 @@ Em seguida, inicie o projeto.
 ```cl
 expo start
 ```
+Ou
+
+```cl
+npx react-native-run-android
+```
 
 
 <div align="center">
