@@ -23,22 +23,22 @@ Aplicativo criado para estudar e explorar as melhores e mais objetivas Tecnologi
 
 ## :hammer_and_wrench: Recursos | Features 
 
--   [ ] Notifee.
--   [ ] Animações e Modal;
--   [ ] Envio de notificações Local;
--   [ ] Envio de notificações pelo Servidor;
+-   [ ] Notifee;
+-   [ ] animações e Modal | animations and Modal;
+-   [ ] Envio de notificações Local | Sending Local Notifications ;
+-   [ ] Envio de notificações pelo Servidor | sending notifications by the server;
 
 
 ## ✨ Tecnologias | Technologies
 
--   [ ] React Native
--   [ ] Typescript
--   [ ] Expo
--   [ ] Notifee
--   [ ] React native Firebase
--   [ ] Firebase Cloud Messaging
--   [ ] Lottie
--   [ ] React Native Gesture Handler
+-   [ ] React Native;
+-   [ ] Typescript;
+-   [ ] Expo;
+-   [ ] Notifee;
+-   [ ] React native Firebase;
+-   [ ] Firebase Cloud Messaging;
+-   [ ] Lottie;
+-   [ ] React Native Gesture Handler;
 
 
 ## Executando o projeto | running the project
@@ -46,10 +46,12 @@ Aplicativo criado para estudar e explorar as melhores e mais objetivas Tecnologi
 Utilize o **yarn** ou o **npm install** para instalar as dependências do projeto.
 Em seguida, inicie o projeto.
 
+<i>Use **yarn** or **npm** install to install project dependencies. Then start the project.</i>
+
 ```cl
 expo start
 ```
-Ou
+Or
 
 ```cl
 npx react-native-run-android
@@ -57,5 +59,5 @@ npx react-native-run-android
 
 
 <div align="center">
-  <small>Desenvolvido por Otávio Stasiak - Março/2022</small>
+  <small>Developed by Otávio Stasiak - March/2022</small>
 </div>
