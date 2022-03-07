@@ -21,7 +21,7 @@ Aplicativo criado para estudar e explorar as melhores e mais objetivas Tecnologi
   <img src="https://firebasestorage.googleapis.com/v0/b/notificationsapp-58333.appspot.com/o/NotificationsApp_1_AdobeCreativeCloudExpress%20(1).gif?alt=media&token=45e30a5e-7409-4a2d-a367-9d6631d8b671" alt="this slowpoke moves" width="20%" />
 </div>
 
-## :hammer_and_wrench: Features 
+## :hammer_and_wrench: Recursos | Features 
 
 -   [ ] Notifee.
 -   [ ] Animações e Modal;
@@ -29,7 +29,7 @@ Aplicativo criado para estudar e explorar as melhores e mais objetivas Tecnologi
 -   [ ] Envio de notificações pelo Servidor;
 
 
-## ✨ Tecnologias
+## ✨ Tecnologias | Technologies
 
 -   [ ] React Native
 -   [ ] Typescript
@@ -41,7 +41,7 @@ Aplicativo criado para estudar e explorar as melhores e mais objetivas Tecnologi
 -   [ ] React Native Gesture Handler
 
 
-## Executando o projeto
+## Executando o projeto | running the project
 
 Utilize o **yarn** ou o **npm install** para instalar as dependências do projeto.
 Em seguida, inicie o projeto.
