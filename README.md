@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="NotificationsApp" height="80" title="Plant Manager" src=".github/logo.png" />
+  <img alt="NotificationsApp" height="80" title="Plant Manager" src="https://firebasestorage.googleapis.com/v0/b/notificationsapp-58333.appspot.com/o/icon%20.png?alt=media&token=1f6df926-7087-43b5-944c-32bed943d5c3" />
 </h1>
 
 <div align="center">
