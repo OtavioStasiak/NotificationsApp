@@ -13,8 +13,8 @@
 
 ## 💻 Projeto | Project
 Aplicativo criado para estudar e explorar as melhores e mais objetivas Tecnologia de notificações, Tanto local quanto pelo servidor, com uma interface intuitiva, flúida e divertida!
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Application created to study and explore the best and most objective Notifications technology, both locally and on the server, with an intuitive, fluid and fun interface!
+<br/>
+#Application created to study and explore the best and most objective Notifications technology, both locally and on the server, with an intuitive, fluid and fun interface!#
 
 
 
