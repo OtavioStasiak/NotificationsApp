@@ -13,16 +13,13 @@
 
 ## 💻 Projeto | Project
 Aplicativo criado para estudar e explorar as melhores e mais objetivas Tecnologia de notificações, Tanto local quanto pelo servidor, com uma interface intuitiva, flúida e divertida!
-<br/>
+<br/><br/>
 <i>Application created to study and explore the best and most objective Notifications technology, both locally and on the server, with an intuitive, fluid and fun interface!</i>
-
-
 
 <div align="center">
   <img src="https://firebasestorage.googleapis.com/v0/b/notificationsapp-58333.appspot.com/o/NotificationsApp_1_AdobeCreativeCloudExpress.gif?alt=media&token=c723ce2f-fdff-46ac-b512-ff737cd3d9db" alt="this slowpoke moves"  width="20%" />
   <img src="https://firebasestorage.googleapis.com/v0/b/notificationsapp-58333.appspot.com/o/NotificationsApp_1_AdobeCreativeCloudExpress%20(1).gif?alt=media&token=45e30a5e-7409-4a2d-a367-9d6631d8b671" alt="this slowpoke moves" width="20%" />
 </div>
-
 
 ## :hammer_and_wrench: Features 
 
