@@ -112,7 +112,7 @@ export function Home(){
 
             <ButtonSend title='Send Local Notification' loading={loading}  onPress={sendLocalNotification} />
 
-            <ButtonSend title='Send Serverless Notification' loading={isLoading} onPress={SendServerlessNotification}  />
+            <ButtonSend title='Send Server Notification' loading={isLoading} onPress={SendServerlessNotification}  />
 
             <ModalView visible={visible} closeModal={() => setVisible(false)} animationType="fade">
 
